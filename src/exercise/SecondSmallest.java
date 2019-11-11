@@ -1,3 +1,5 @@
+package exercise;
+
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
 import java.util.Arrays;

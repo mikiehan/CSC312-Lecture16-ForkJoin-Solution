@@ -1,3 +1,5 @@
+package lecture;
+
 public class SimpleTimer {
     private long startTime;
 
